@@ -37,6 +37,9 @@
 
 ![Wonjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=WonjunS&show_icons=true&theme=radical)
 
+<img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=seowj0710">
+
+
 
 <!--
 **WonjunS/WonjunS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
