@@ -35,11 +35,11 @@
 
 <div align=center><h3>📜 GitHub stats</h3></div>
 
-![Woohyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkwh&show_icons=true&theme=radical)
+![Wonjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=WonjunS&show_icons=true&theme=radical)
 
 
 <!--
-**kkwh/kkwh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**WonjunS/WonjunS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
