@@ -31,7 +31,7 @@
   <br>
   
   <img src="https://img.shields.io/badge/thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white">
-  <img src="https://img.shields.io/badge/axios-000000?style=for-the-badge&logo=axios&logoColor=white">
+  <img src="https://img.shields.io/badge/google%20cloud%20storage-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">  
   
   <br>
   
@@ -40,13 +40,16 @@
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
   
+  <br>
+  
+  <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"> 
+  <img src="https://img.shields.io/badge/axios-000000?style=for-the-badge&logo=axios&logoColor=white">
 
   <br>
   
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"> 
   <img src="https://img.shields.io/badge/chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white">
-
+  
   <br>
 
   <h3>TOOLS</h3>
@@ -59,6 +62,16 @@
   <h3>Portfolio</h3>
   <a href="https://velog.io/@seowj0710"><img src="https://img.shields.io/badge/Tech blog-20C997?style=flat-square&logo=Velog&&logoColor=white"/></a>
 
+</div>
+
+<br>
+
+<div align=center><h2>☁️ Contact Me</h2></div>
+
+<div align=center>
+  <a href="mailto:seowj0710@gmail.com">
+    <img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 </div>
 
 <br>
