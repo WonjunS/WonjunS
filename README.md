@@ -59,9 +59,6 @@
 
   <br>
 
-  <h3>Portfolio</h3>
-  <a href="https://velog.io/@seowj0710"><img src="https://img.shields.io/badge/Tech blog-20C997?style=flat-square&logo=Velog&&logoColor=white"/></a>
-
 </div>
 
 <br>
