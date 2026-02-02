@@ -7,7 +7,7 @@
 
 <div align=left>
   <ul>
-    <li>긍정적인 생각을 가지고 지속적인 성장을 위해 노력하는 개발자 입니다. 🌳</li>
+    <li>Backend-focused software developer with experience using Java and Spring Framework on enterprise web systems.</li>
   </ul>  
 </div>
 
@@ -26,12 +26,11 @@
   
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/spring%20boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> 
-  <img src="https://img.shields.io/badge/spring%20security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">
-
-  <br>
   
+  <br>
+
+  <img src="https://img.shields.io/badge/spring%20security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">
   <img src="https://img.shields.io/badge/thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white">
-  <img src="https://img.shields.io/badge/google%20cloud%20storage-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">  
   
   <br>
   
